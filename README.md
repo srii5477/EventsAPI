@@ -1,0 +1,3 @@
+Clone this repository to your local folder and view this API's documentation for guidance on how to send requests and the structure in which you will receive them: https://documenter.getpostman.com/view/31811369/2s9YsQ9Voe
+Note: For requests involving creation/updation/deletion of events, you will receive an event object as the response, for the other requests involving viewing attendees and viewing all the events, you will receive an array as the response. This has not been mentioned in the documentation. 
+You need to make a request to be authenticated and receive your authentication 'string', it is mentioned how to go about doing the same in the documentation.
